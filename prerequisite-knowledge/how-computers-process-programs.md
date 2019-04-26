@@ -1,5 +1,4 @@
 # How CPU executes program
 
-``` 
-this is a test
-```
+![1](./img/1.png)
+
