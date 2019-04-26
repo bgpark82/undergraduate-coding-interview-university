@@ -7,18 +7,12 @@
 ## Prerequisite Knowledge
 
 <details>
-<summary> prerequisite knowledge </summary>
+<summary>prerequisite knowledge</summary>
     
-**How computers process programs**
+- [ ] **How computers process programs**
+    - [ ] [How CPU executes program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
     
-<details>
-    <summary>1. How CPU executes program</summary>  
-      - [ ] [How CPU executes program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-        this is the text
-        ```
-        code
-        ```
-</details>
+
 
 
 
