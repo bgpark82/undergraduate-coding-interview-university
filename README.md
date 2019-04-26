@@ -8,12 +8,12 @@
 
 <details>
 <summary> prerequisite knowledge </summary>  
-  
+|  
 **How computers process programs**
 
 <details>
-<summary>How computers process a program : </summary>
-   
+<summary>How CPU executes program</summary>
+|   
   - [ ] [How CPU executes program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
 </details>
 
