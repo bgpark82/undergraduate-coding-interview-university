@@ -12,8 +12,10 @@
 **How computers process programs**
 
 <details>
-<summary>[How CPU executes program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)</summary>
-# test
+- [] <summary>How CPU executes program</summary>
+  [How CPU executes program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+  
+  
 </details>
 
 
