@@ -13,3 +13,14 @@
     - [ ] [How CPU executes program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA) > [summary](prerequisite-knowledge/how-computers-process-programs.md)
 
 </details>
+
+## Even more knowledge
+
+<details>
+<summary>Even more knowledge</summary><br>
+
+- **Recursion** 
+    - [ ] [Fibonacci](even-more-knowledge/recursion/fibonacci.md) 
+    - [ ] [Fibonacci Tabulation](even-more-knowledge/recursion/fibonacci-tabulation.md) 
+    - [ ] [Fibonacci Memoization](even-more-knowledge/recursion/fibonacci-memoization.md) 
+</details>
