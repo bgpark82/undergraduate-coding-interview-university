@@ -19,8 +19,8 @@
 <details>
 <summary>Even more knowledge</summary><br>
 
-- **Recursion** 
-    - [ ] [Fibonacci](even-more-knowledge/recursion/fibonacci.md) 
-    - [ ] [Fibonacci Tabulation](even-more-knowledge/recursion/fibonacci-tabulation.md) 
-    - [ ] [Fibonacci Memoization](even-more-knowledge/recursion/fibonacci-memoization.md) 
+- **Dynamic Programming** 
+    - [ ] [Fibonacci](even-more-knowledge/dynamic-programming/fibonacci.md) 
+    - [ ] [Fibonacci Tabulation](even-more-knowledge/dynamic-programming/fibonacci-tabulation.md) 
+    - [ ] [Fibonacci Memoization](even-more-knowledge/dynamic-programming/fibonacci-memoization.md) 
 </details>

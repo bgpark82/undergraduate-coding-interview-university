@@ -12,12 +12,9 @@ public class FactorialMemoization {
 	static int[] f;
 	
 	private static int fib(int n) {
-		
-		if(n == 1 || n == 2) {
-			return 1;
-		} else if(f[n] > -1) {
-			return f[n];
-		} else {
+		if(n == 1 || n == 2) return 1;
+		else if(f[n] > -1) return f[n];
+		else {
 			f[n] = fib(n-2) + fib(n-1);
 			show();
 			return f[n];
@@ -36,8 +33,12 @@ public class FactorialMemoization {
 		for (int i = 0; i < f.length; i++) {
 			f[i] =-1;
 		}
-		System.out.println(f);
 		System.out.println(fib(8));
 	}
 }
+
 ```
+
+# Reference
+[Overlapping Subproblems Property in Dynamic Programming | DP-1](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
+[Dynamic Programming Set 1| Overlapping Subproblem properties](https://youtu.be/mmjDZGSr7EA)
