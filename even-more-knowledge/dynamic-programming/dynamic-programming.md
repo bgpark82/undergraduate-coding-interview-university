@@ -128,7 +128,7 @@ Output : `8`
 
 ## Memoization vs Tabulation
 
-Memoization : table is filled on demain
+Memoization : table is filled on demain  
 Tabulation : table is filled one by one from the beginning
 
 ## Recursion vs Memoization vs Tabulation

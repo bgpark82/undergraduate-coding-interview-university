@@ -20,6 +20,7 @@
 <summary>Even more knowledge</summary><br>
 
 - **Dynamic Programming** 
+-  [ ] [Dynamic Programming](even-more-knowledge/dynamic-programming/dynamic-programming.md)
     - [ ] [Fibonacci](even-more-knowledge/dynamic-programming/fibonacci.md) 
     - [ ] [Fibonacci Tabulation](even-more-knowledge/dynamic-programming/fibonacci-tabulation.md) 
     - [ ] [Fibonacci Memoization](even-more-knowledge/dynamic-programming/fibonacci-memoization.md) 
