@@ -31,3 +31,6 @@ public class FactorialTabulation {
 }
 
 ```
+## Reference
+[Overlapping Subproblems Property in Dynamic Programming | DP-1](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)  
+[Dynamic Programming Set 1| Overlapping Subproblem properties](https://youtu.be/mmjDZGSr7EA)
