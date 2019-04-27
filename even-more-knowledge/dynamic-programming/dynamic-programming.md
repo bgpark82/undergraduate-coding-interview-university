@@ -39,9 +39,9 @@ Recursion tree for execution of fib(5)
 fib(1) fib(0)
 ```
 
-**fib(0) : 3 times**
-**fib(1) : 5 times**
-**fib(2) : 3 times**
-**fib(3) : 2 times**
-fib(4) : 1 time 
-fib(5) : 1 time 
+**fib(0) : 3 times**  
+**fib(1) : 5 times**  
+**fib(2) : 3 times**  
+**fib(3) : 2 times**  
+fib(4) : 1 time   
+fib(5) : 1 time   
