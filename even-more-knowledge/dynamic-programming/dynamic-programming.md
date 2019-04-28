@@ -244,10 +244,10 @@ public class FloydWarshall {
 }
 ```
 
-[1](/img/1.png)
+![1](/img/1.png)
 
 ## Reference
 [Overlapping Subproblems Property in Dynamic Programming | DP-1](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
-[Floyd Warshall Algorithm | DP-16](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)
-[Principle of Optimality - Dynamic Programming](https://www.youtube.com/watch?v=_zE5z-KZGRw)
-[Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
+[Floyd Warshall Algorithm | DP-16](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/)  
+[Principle of Optimality - Dynamic Programming](https://www.youtube.com/watch?v=_zE5z-KZGRw)  
+[Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)  
