@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactorialMemoization",
+            "request": "launch",
+            "mainClass": "FactorialMemoization"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactorialTabulation",
+            "request": "launch",
+            "mainClass": "FactorialTabulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.Fibonacci"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FloydWarshall",
+            "request": "launch",
+            "mainClass": "FloydWarshall"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Factorial",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.Factorial"
+        }
+    ]
+}
