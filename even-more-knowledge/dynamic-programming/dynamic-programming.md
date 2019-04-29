@@ -243,8 +243,16 @@ public class FloydWarshall {
     } 
 }
 ```
-
+the given result below you can see after running above code 
 ![1](./img/1.png)
+
+### Dijkstra Algorithm
+Dijkstra Algorithm is another shortest path algorithm from source to all vertices in the given graph.
+
+The start vertex 0's distance is 0 and all the other vertices are INF indicate Infinity. distance assigned to vertices are {0, INF, INF,...}. create a set sptSet (shortest path tree set). if the vertex 0 is picked, sptSet becomes {0}
+
+1. distance : {0, INF, INF, INF, ..}
+2. marked vertex : {0, 1, ...}
 
 ## Reference
 [Overlapping Subproblems Property in Dynamic Programming | DP-1](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)  

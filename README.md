@@ -25,4 +25,5 @@
     - [ ] [Fibonacci Tabulation](even-more-knowledge/dynamic-programming/source-code/FactorialTabulation.java) 
     - [ ] [Fibonacci Memoization](even-more-knowledge/dynamic-programming/source-code/FactorialMemoization.java) 
     - [ ] [Floyd Warshall](even-more-knowledge/dynamic-programming/source-code/FloydWarshall.java) 
+    - [ ] [Dijkstra](even-more-knowledge/dynamic-programming/source-code/Dijkstra.java) 
 </details>
